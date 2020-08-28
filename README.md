@@ -7,3 +7,10 @@
 I am a backend developer and interested in DevOps.
 
 - 🌱 I’m currently learning Node.js, Kubernetes, Swift, Flutter.
+- 💻 I'm working hard to be a Full-Stack Developer.
+
+#### Language learned
+Java, Python, SQL, Go, Dart, JavaScript, Swift, Shell, MATLAB, C, HTML.
+
+#### Software used proficiently
+Nginx, Docker, Maven, NPM, Jenkins, Git, Homebrew, mongodb, MySQL, redis.
