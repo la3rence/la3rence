@@ -7,7 +7,7 @@
 
 I am a backend developer (Java based) and interested in DevOps.
 
-- 💾 I’m currently learning Node.js, TypeSctipt, GoLang, React, Kubernetes, Swift.
+- 💾 I’m currently learning Node.js, TypeScript, GoLang, React, Kubernetes, Swift.
 - 💻 I'm working hard to be a Full-Stack Developer.
 
 Here's my [blog](https://blog.lawrenceli.me).
