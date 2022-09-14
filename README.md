@@ -8,9 +8,9 @@ Programming languages: `Java` `JavaScript` `Golang`
 
 Frameworks: `Spring` `React` `Next.js` `Node.js`
 
-Database: `MySQL`, `Redis`, `MongoDB`
+Database: `MySQL` `Redis` `MongoDB`
 
-Infrastructure: `Docker` `Kubernetes` `Jenkins` `Nginx`
+Infrastructure: `Docker` `Kubernetes` `OpenShift` `Jenkins` `Nginx`
 
 Blog: [lawrenceli.me](https://lawrenceli.me) 
 
