@@ -1,13 +1,19 @@
-![Language](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Lonor&hide=html,objective-c,css&layout=compact)
-![Status](https://github-readme-stats.vercel.app/api?username=Lonor&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&line_height=23)
+## Lawrence Li
 
-### Hi there 👋
+Software engineer from China.
 
-> The amateurs. The outsiders. The autodidacts.
+#### Mainly Tech Stack
 
-I am a backend developer (Java based) and interested in DevOps.
+Programming languages: `Java` `JavaScript` `Golang`
 
-- 💾 I’m currently learning Node.js, TypeScript, GoLang, React, Kubernetes, Swift.
-- 💻 I'm working hard to be a Full-Stack Developer.
+Frameworks: `Spring` `React` `Next.js` `Node.js`
 
-Here's my [blog](https://blog.lawrenceli.me).
+Database: `MySQL`, `Redis`, `MongoDB`
+
+Infrastructure: `Docker` `Kubernetes` `Jenkins` `Nginx`
+
+Blog: [lawrenceli.me](https://lawrenceli.me) 
+
+#### Open Source
+
+![Status](https://github-readme-stats.vercel.app/api?username=Lonor&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=00000000&hide_title=true&line_height=23)
